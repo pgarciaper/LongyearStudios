@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/pgarciaper/a8c778f264d09d50a195138a9422c406/raw/e28120b3b67f8da93c8ebcb313379759a0a86a87/data_oscars.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/pgarciaper/b85f92ab31483119dcec7f327b9d4812/raw/e3a22ceeaae232df97c993798876bea024961747/metadata_oscars.tsv",
+      "bookmarksPath": "https://gist.githubusercontent.com/pgarciaper/82cb7342bfefaccf02fe193908298495/raw/ce8305369829296ca362bcaa9b23587d8670b322/book.tsv"
+    }
+  ]
+}
